@@ -1,0 +1,15 @@
+.category-btn{
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 1px solid #fefefe;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+    transition: hover 0.5s ease-in;
+    margin-right: 20px;
+}
+.category-btn:hover{
+    background-color: #fefefe;
+    color: #000;
+}
