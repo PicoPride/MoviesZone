@@ -1,6 +1,6 @@
 
 import React from 'react'
-import './css/CategoryBtn.css'
+import './css/categoryBtn.css'
 
 const CategoryBtn = ({label, onClick}) => {
   return (
